@@ -1,4 +1,4 @@
-# ESP32 Music Reactive LEDs
+# ESP32 Music Reactive LEDs using KY-038 
 
 A simple ESP32-based music-reactive LED system that detects sound intensity using a KY-038 sound sensor and visualizes the detected audio amplitude using a 10-level LED bar.
 
