@@ -166,7 +166,6 @@ Music_Reactive_LEDs/
 │
 ├── images/                    # Project images
 │
-├── docs/                      # Documentation
 │
 └── README.md                  # Project documentation
 ```
